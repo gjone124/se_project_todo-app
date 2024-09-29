@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was created for Sprint 7 of the Triple Ten Software Engineering program. HTML, CSS, and Javascript files were provided. My job was to refactor the Javascript from being hardcoded to using Object=Oriented Programming.
+This project was created for Sprint 7 of the Triple Ten Software Engineering program. HTML, CSS, and Javascript files were provided. My job was to refactor the Javascript from being hardcoded to using Object-Oriented Programming.
 
 ## Functionality
 
@@ -23,7 +23,7 @@ This project uses the following technology and techniques:
 - UUIDV4 (Universally Unique Identifier): randomly generates unique IDs for each task
 - Modular Javascript: organizes code into reusable modules
 - Object-Oriented Programming (OOP): uses classes and objects to create reusable and maintainable code
-- Form Validation: ensures data entered by a user for a new task is valid
+- Form Validation: ensures data entered by user for new task is valid
 
 ## Deployment
 
