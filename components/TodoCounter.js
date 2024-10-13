@@ -25,6 +25,7 @@ class TodoCounter {
 
     // more compact way of writing increment conditions above (using ternary operator)
     //this._completed += increment ? 1 : -1;
+
     this._updateText();
   };
 
@@ -43,7 +44,8 @@ class TodoCounter {
     }
 
     // more compact way of writing increment conditions above (using ternary operator)
-    this._total += increment ? 1 : -1;
+    //this._total += increment ? 1 : -1;
+
     this._updateText();
   };
 
