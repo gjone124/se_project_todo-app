@@ -1,8 +1,10 @@
-# Simple Todo App
+# Project 4: Simple Todo App
 
 ## Description
 
-This project was created for Sprint 7 and Sprint 8 of the Triple Ten Software Engineering program. HTML, CSS, and Javascript files were provided.
+This is the 5th project for the Triple Ten Software Engineering program. It's associated with Sprint 7 and 8.
+
+HTML, CSS, and Javascript files were provided.
 
 For Sprint 7, my job was to refactor the Javascript from being hardcoded to using Object-Oriented Programming.
 
